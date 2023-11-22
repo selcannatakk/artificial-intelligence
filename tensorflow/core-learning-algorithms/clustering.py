@@ -1,0 +1,27 @@
+
+
+'''
+
+FEATURE COLUMNS
+
+'''
+'''
+
+CREATE THE MODEL
+
+'''
+'''
+
+TRAIN THE MODEL
+
+'''
+'''
+
+EVALUATION
+
+'''
+'''
+
+PREDICTIONS
+
+'''
